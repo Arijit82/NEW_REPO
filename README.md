@@ -1,2 +1,2 @@
 # NEW_REPO
-New Repository
+New Repository for coding
